@@ -1,0 +1,68 @@
+((("company-emacs-eclim-setup" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("company" .
+   [1 0 0 0 0 0 0])
+  ("company-emacs-eclim" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("eclimd" .
+   [1 0 0 0 0 0])
+  ("projectile-project-root" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [4 0 0 0 0 0 0])
+  ("csharp-mode" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  (":modes" .
+   [2 0 0 0 0 0])
+  ("json-jsonlint" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("my-csharp-mode-hook" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-hook" .
+   [3 0 0 0 0 0 0 0])
+  ("electric-pair-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defun" .
+   [1 0 0 0 0])
+  ("flycheck-define-checker" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("csharp-unity" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  (":command" .
+   [1 0 0 0 0 0 0 0])
+  (":error-patterns" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("after-init-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("global-company-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("main_files" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("exclude_file" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("extra_file" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("liboutfile" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("libfilelist" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("files" .
+   [1 0 0 0 0])
+  ("rglob" .
+   [2 0 0 0 0])
+  ("join" .
+   [2 0 0 0])
+  ("filedir" .
+   [2 0 0 0 0 0 0])
+  ("excl" .
+   [2 0 0 0])
+  ("libFiles" .
+   [0 0 0 0 0 0 0 1])
+  ("compile_command" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gradle-mode" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("java-mode-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lambda" .
+   [1 0 0 0 0 0])))
